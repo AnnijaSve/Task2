@@ -64,7 +64,9 @@
                 Mācību ilgums
                 <input type="text"
                        name="timeSpentForStudy"
-                       id="timeSpentForStudy"/>
+                       id="timeSpentForStudy"
+                       value="gadi"
+                />
             </label>
         </div>
         <div class="section"><span>3</span>Darba pieredze</div>
@@ -94,7 +96,9 @@
                 Darba stāžs
                 <input type="text"
                        name="workExperience"
-                       id="workExperience"/>
+                       id="workExperience"
+                       value="gadi"
+                />
             </label>
             <label>
                 Darba vietās pielietotās prasmes vai sasniegumi
